@@ -1,2 +1,2 @@
 # Introduction
-Promoting Bi-directional Human-robot Collaborative Interaction through Scene Graph-driven Large Language Models
+Augmented Reality-assisted Visual Question Answering with Context-enhanced Large Language Model for Human-robot Collaboration
